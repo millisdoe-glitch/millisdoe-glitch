@@ -15,14 +15,7 @@
 ### 🔧 What I Focus On
 
 - **Performance Engineering in Python**: profiling hot paths (`cProfile`, `tracemalloc`), reducing allocations, eliminating algorithmic bottlenecks, and shipping zero-dependency speedups without breaking public APIs.
-- **Audio & Mobile**: building native iOS audio tools with `SwiftUI` and `AVAudioEngine`.
 - **Testing & Verification**: every optimization is backed by reproducible benchmarks and full test suite verification.
-
----
-
-### 🚀 Featured Project
-
-- **[BassCraftIOS](https://github.com/millisdoe-glitch/BassCraftIOS)** — *Subwoofer Lab port for iOS built with SwiftUI & AVAudioEngine.*
 
 ---
 
